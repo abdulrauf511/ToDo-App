@@ -43,4 +43,4 @@ Deleting a To-Do: Click the delete button next to each task to remove it from th
 Persistent Storage: The app utilizes the localStorage API to store the list of tasks, ensuring they remain visible after refreshing or reopening the app.
 
 **Contributing**
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+If you would like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
